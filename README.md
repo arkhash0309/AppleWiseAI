@@ -78,4 +78,10 @@
 #### The deep learning algorithms performed really well with the Gated Recurrent Unit having a very good prediction graph against the actual values.
 
 
+## License
+#### This project has been governed by the Apache 2.0 License.
+
+#### Feel free to fork the project and star the repository for usage.
+
+
 
